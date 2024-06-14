@@ -1,0 +1,19 @@
+<!-- ANOTAÇÕES 13/06/2024 (Quinta-feira) -->
+
+->>> Comandos Git <<<-
+
+1. Git Init -> Começar um novo repositório git na pasta atual
+2. Git Add texto.txt -> Registra no git as alterações de um arquivo "texto.txt"
+3. Git Commit -> 
+4. Git Push -> 
+5. Git Status -> 
+6. Git Log -> 
+7. Git checkout -> Altera o HEAD atual...
+
+7. Git -v -> Verificar versão do git instalado
+8. mkdir hermes -> Cria um diretório com o nome "hermes"
+9. dir -> Mostra todas as pastas e arquivos do diretório atual
+10.cd hermes -> Mudar o diretório, mudar a pasta atual, entra dentro de uma subpasta chamada "hermes"
+
+11. git remote add origin https://github.com/Hermes983/aula-gt01.git -> Conecta o repositório remoto com o repositório do github
+12. 
